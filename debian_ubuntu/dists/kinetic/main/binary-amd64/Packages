@@ -1,0 +1,15 @@
+Package: eupnea-system
+Version: 1.0.0
+Architecture: amd64
+Maintainer: The Eupnea Project
+Priority: optional
+Section: admin
+Filename: pool/main/e/eupnea-system/eupnea-system_1.0.0_amd64.deb
+Size: 4664
+SHA256: 8f88c7535d9fa8cda7b12a22e60bec4745d4bcb3776eaf47327d87851388d954
+SHA1: b45b2a7ef13f5e80d746cfe1e53525cb771ce30e
+MD5sum: 95eac32b4c5c4de7e6500b01c04f439b
+Description: Eupnea utilities
+ This package upgrades Depthboot/EupneaOS systems to the latest version.
+ Not recommended for use on non-Chromebook devices.
+

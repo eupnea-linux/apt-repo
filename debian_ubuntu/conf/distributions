@@ -1,0 +1,21 @@
+Description: eupnea-linux/apt-repo
+Codename: kinetic
+Architectures: amd64 i386
+Components: main
+SignWith: ECA3AAD20F16295C80B62BEAB7D1D7FD9DEA039C
+
+
+Description: eupnea-linux/apt-repo
+Codename: jammy
+Architectures: amd64 i386
+Components: main
+SignWith: ECA3AAD20F16295C80B62BEAB7D1D7FD9DEA039C
+
+
+Description: eupnea-linux/apt-repo
+Codename: stable
+Architectures: amd64 i386
+Components: main
+SignWith: ECA3AAD20F16295C80B62BEAB7D1D7FD9DEA039C
+
+
