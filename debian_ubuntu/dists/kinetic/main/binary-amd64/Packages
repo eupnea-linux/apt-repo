@@ -14,17 +14,17 @@ Description: Eupnea utilities
  Not recommended for use on non-Chromebook devices.
 
 Package: eupnea-utils
-Version: 1.0.5
+Version: 1.0.6
 Architecture: amd64
 Maintainer: The Eupnea Project
 Depends: cgpt, vboot-kernel-utils, parted, rsync, cloud-utils
 Priority: optional
 Section: admin
-Filename: pool/main/e/eupnea-utils/eupnea-utils_1.0.5_amd64.deb
-Size: 410844
-SHA256: 4b03153a0056c5dad7be9c923890013eedc271764c0fdc98195fe4a8bbd1d181
-SHA1: 6c36adcd650d87c86c241104d65ed6e3ba0423d0
-MD5sum: b0f9cebd7d4f6d82afa1b5b83e618a7d
+Filename: pool/main/e/eupnea-utils/eupnea-utils_1.0.6_amd64.deb
+Size: 411328
+SHA256: 7682b36b86e9e681006cb17cb50d159cc064d0ef26145fd5440234c1b8828736
+SHA1: 75bf678c1f7c8de98dd922c8eb8a5da396e0b360
+MD5sum: 8103ec4bfb11832eb2cb2512a40436b0
 Description: Eupnea utilities
  This package contains a set of tools to interact with EupneaOS/Depthboot systems.
  Not recommended for use on non-Chromebook devices.
