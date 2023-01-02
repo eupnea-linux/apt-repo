@@ -1,14 +1,14 @@
 Package: eupnea-system
-Version: 1.0.5
+Version: 1.0.6
 Architecture: amd64
 Maintainer: The Eupnea Project
 Priority: optional
 Section: admin
-Filename: pool/main/e/eupnea-system/eupnea-system_1.0.5_amd64.deb
+Filename: pool/main/e/eupnea-system/eupnea-system_1.0.6_amd64.deb
 Size: 4300
-SHA256: 877eafbd5cf8fd6de16055097d64e621c5eb5ee43b36e7d3377b9c05c1d0759f
-SHA1: 72f43f565b08db56d177d6e9ad7293ada4148e07
-MD5sum: 35363228c7f0d3ddca3a866f2ffb9c31
+SHA256: eef25151791435ccdc1849be4f4b6022e7aa6600b4f6769da3b20fcca0ab529c
+SHA1: 9acb94d858b50cb7107a3bcb1e7fa90cf58daa7d
+MD5sum: 22c84cacf240d35ccfabf775c02407f8
 Description: Eupnea utilities
  This package upgrades Depthboot/EupneaOS systems to the latest version.
  Not recommended for use on non-Chromebook devices.
