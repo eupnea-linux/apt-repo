@@ -1,25 +1,25 @@
 Codename: kinetic
-Date: Sat, 07 Jan 2023 01:45:19 UTC
+Date: Sun, 08 Jan 2023 01:05:56 UTC
 Architectures: amd64 i386
 Components: main
 Description: eupnea-linux/apt-repo
 MD5Sum:
- a25bc599e99116a9bd19d4c5950aece2 1107 main/binary-amd64/Packages
- 46f9a45e243e8b9e1e588edf34d74cf2 580 main/binary-amd64/Packages.gz
+ 9c822e866506acdbd7a3229f8a88eb2e 1107 main/binary-amd64/Packages
+ 1d93024f53ead5879896eb7be3ac2001 579 main/binary-amd64/Packages.gz
  0ebee03f5d2acf6e3c8aecf28cbab7f8 71 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  667715bb25d9dc39cff3cdf66cbbb1b2 70 main/binary-i386/Release
 SHA1:
- 0f3220ad5af6bae4ce27515a06d4d422840d5db4 1107 main/binary-amd64/Packages
- 032e7a5383c7b1dfdc6190826c3700ecb6107e8c 580 main/binary-amd64/Packages.gz
+ ac7d82a2a3d1cd71819298f1de02f9ba7f5036bb 1107 main/binary-amd64/Packages
+ 59ee0a47a43546c5294292ff399e19d7f486ddbb 579 main/binary-amd64/Packages.gz
  1865cdd2e93bb1e0fc33aca742968251d9f2a0ee 71 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  3ef3b8e947873fe06b78b9ce60f3e47d547bf8d0 70 main/binary-i386/Release
 SHA256:
- 2ffa1274c3062891f05d56241b1fb57d40ae09ccb5ebc4b255b25a0894ea14ab 1107 main/binary-amd64/Packages
- f5d0f78bc3ba5b31e90fa4f714227752f906f1acf846a22fe8812fa67706b796 580 main/binary-amd64/Packages.gz
+ af727aef41dca870a5b1538b383c3e10ad1e0356467299b60f3b9d9637b02721 1107 main/binary-amd64/Packages
+ 9a9a770b9febe364ee0b7e9ad4755a4b42b24d76acbbd7a20eeb2abfc40fc9e0 579 main/binary-amd64/Packages.gz
  be2c1504dd356c2966391282b496f089cda683e852c98be12e32a92544c957d5 71 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
